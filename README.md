@@ -6,4 +6,4 @@
 #### Rode o projeto atraves da engine da Godot e pressione a tecla SPACE para inicar. Quanto maior o numero de pontos, mais rapido a bola fica. Voce perde o jogo se nao conseguir colidir com a bola.
 
 ## Pong Game
-![Pong Game](game.png)
+![Pong Game](game.PNG)
